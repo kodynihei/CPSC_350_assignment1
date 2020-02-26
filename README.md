@@ -1,5 +1,14 @@
 # CPSC_350_assignment1
+
+Notes:
+
+I wasn't able to do everything correctly. I wasnt able to get the correct variance, and didnt know how to properly output the 
+
+new DNA strings to the out file. I also struggled with correctly prompting the user if they want to run another list. 
+
+
 All sites used:
+
 https://www.cprogramming.com/tutorial/lesson14.html
 
 https://stackoverflow.com/questions/9762472/c-how-do-i-read-in-a-file-convert-each-word-to-lower-case-and-then-cout-each
@@ -25,3 +34,5 @@ https://stackoverflow.com/questions/2137156/finding-line-size-of-each-row-in-a-t
 https://stackoverflow.com/questions/8637000/outputting-multiple-lines-to-a-text-file
 
 https://www.geeksforgeeks.org/program-generate-random-alphabets/
+
+
